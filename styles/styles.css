@@ -1,0 +1,12 @@
+p {
+  color: red;
+}
+.other {
+	border: 1px solid black;
+	width:500px;
+}
+
+#kicker {
+	color:blue;
+	border:5px solid black;
+}
