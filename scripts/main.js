@@ -6,6 +6,7 @@ function sayOuch() {
 var foxImage = document.querySelector('img');
 // Assign the function to the onclick event on that element
 foxImage.onclick = sayOuch;
+
 var margin = {top: 20, right: 50, bottom: 30, left: 50},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
